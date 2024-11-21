@@ -7083,15 +7083,15 @@ __metadata:
   linkType: hard
 
 "cross-spawn@npm:^6.0.0":
-  version: 6.0.5
-  resolution: "cross-spawn@npm:6.0.5"
+  version: 6.0.6
+  resolution: "cross-spawn@npm:6.0.6"
   dependencies:
     nice-try: "npm:^1.0.4"
     path-key: "npm:^2.0.1"
     semver: "npm:^5.5.0"
     shebang-command: "npm:^1.2.0"
     which: "npm:^1.2.9"
-  checksum: 8a530666300ebbe1f1a1cd08221923443ecee36e2f0dc881099013db42922cf9605efac8364563497402a9ab947cf7785c5cd8cb70c5efa1b992a00007cb2189
+  checksum: 0c2f0795cbe187c8dcc45a43e344eaa4b9539c56ee98ce6b356c2d4033eb6c96cc16284df1dc5a5375cd2050cec93c8c1be378bd9ca2d2c1b38998594ae09e63
   languageName: node
   linkType: hard
 
