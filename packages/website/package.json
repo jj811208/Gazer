@@ -18,7 +18,7 @@
     "@vitejs/plugin-react": "^2.2.0",
     "terser": "^5.15.1",
     "typescript": "^4.6.4",
-    "vite": "^3.2.10",
+    "vite": "^3.2.11",
     "vite-tsconfig-paths": "^3.6.0"
   },
   "author": "Ryan Chu <jj811208@gmail.com> (https://github.com/jj811208)",

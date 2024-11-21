@@ -20,7 +20,7 @@
     "happy-dom": "^7.7.0",
     "react": "^18.2.0",
     "typescript": "^4.6.4",
-    "vite": "^3.2.10",
+    "vite": "^3.2.11",
     "vite-tsconfig-paths": "^3.6.0",
     "vitest": "^0.25.2",
     "vue": "^3.2.45"
