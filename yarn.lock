@@ -12072,11 +12072,11 @@ __metadata:
   linkType: hard
 
 "nanoid@npm:^3.3.1, nanoid@npm:^3.3.4":
-  version: 3.3.4
-  resolution: "nanoid@npm:3.3.4"
+  version: 3.3.8
+  resolution: "nanoid@npm:3.3.8"
   bin:
     nanoid: bin/nanoid.cjs
-  checksum: 53d605377c76614170df4b5a8d3fa21f13c7077453a77e2393a9fe3df5722022f6b94a671f406b51f81e9c937a6928555c1589e3c46a0d9d29f31872d1362246
+  checksum: c326c0572499c8f8ad1021890074d9f1f3611af7f90dcc1ebc33a376518f9bed45dd8246d4586a19dfaebfd1bf829473cf076f7bca2953924503b4eeb0bea651
   languageName: node
   linkType: hard
 
